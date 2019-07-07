@@ -1,0 +1,9 @@
+*.xlsx
+*.xls
+dist
+node_modules
+*~
+.DS_Store
+.yo-rc.json
+.bin
+package-lock.json
